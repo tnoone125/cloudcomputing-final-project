@@ -1,0 +1,9 @@
+CREATE DATABASE IF NOT EXISTS todo;
+
+USE todo;
+
+CREATE TABLE IF NOT EXISTS entries (
+    what_to_do VARCHAR(100) NOT NULL,
+    due_date VARCHAR(100) DEFAULT '',
+    status VARCHAR(100) DEFAULT ''
+);
