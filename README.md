@@ -11,4 +11,6 @@ I Dockerized the web application (`tnoone125/todo-express-application`) and depl
 
 Note for the Express server development, I referenced a Medium article for help on serving the React application from a web server: https://medium.com/simform-engineering/how-to-implement-ssr-server-side-rendering-in-react-18-e49bc43e9531
 
+You may access the application on: http://34.73.124.70:5000
+
 ![architecture diagram](./finalprojectdiagram.jpg)
